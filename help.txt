@@ -1,0 +1,29 @@
+Voorbereiding
+
+- De spelers kiezen een kleur
+- De spelers voeren een naam in
+
+Doel
+
+Een spelsituatie creëren waarin de tegenspeler geen stuk meer kan plaatsen.
+
+Verloop van het spel
+
+Elke speler heeft 17 gekleurde stukken en een neutraal stuk. Degene die begint, plaats één neutraal stuk op het bord, op een vlak naar keuze. Vervolgens plaatst de andere speler het tweede neutrale stuk, echter niet naast het eerste.
+
+Daarna kiezen de spelers beurtelings een van hun stukken en plaatsen het op het bord, rekening houdend met de volgende regels:
+- Een stuk moet naast ten minste een ander stuk worden gelegd.
+- De zijden van elkaar rakende stukken moeten gelijk zijn.
+	> kleur naast kleur
+	> verticale lijnen naast verticale lijnen
+	> horizontale lijnen naast horizontale lijnen
+- Men mag een stuk plaatsen naast een stuk van de tegenstander.
+- Men mag een stuk zo plaatsen, dat het meer dan een ander stuk raakt.
+
+Einde van het spel
+
+Het spel eindigt zodra een van beide spelers geen stuk meer kan plaatsen; de andere speler wint. Dus, men moet trachten om de stukken zodanig op het bord te plaatsen, dat de tegenspeler als eerste zijn beurt moet overslaan.
+
+Speltijd
+
+5 tot 20 minuten.
